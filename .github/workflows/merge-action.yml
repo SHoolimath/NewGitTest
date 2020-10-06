@@ -31,4 +31,4 @@ jobs:
           echo Add other actions to build, &&
           echo test, and deploy your project. &&
           cat test.txt
-	        cat test1.txt
+	  cat test1.txt
